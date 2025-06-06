@@ -32,3 +32,5 @@ This project combines Machine Learning and mobile health technology to create a 
 * Recall: 72%
 * Confusion Matrix: Used to visualize true positives, false positives, etc.
 
+[Video](https://youtu.be/kZZskzgu-BE?si=BbqOKU88UgDoVNsU)
+
