@@ -32,5 +32,19 @@ This project combines Machine Learning and mobile health technology to create a 
 * Recall: 72%
 * Confusion Matrix: Used to visualize true positives, false positives, etc.
 
+# Notebook
+
+The Jupyter notebook.ipynb provides data analysis, model training, and result visualization.
+
+To use the notebook: Open notebook.ipynb .
+
+# Installation
+
+Ensure you have Python  installed.
+
+Clone this repository: git clone `https://github.com/jeanraisa/Capstone.git`
+
+Install required libraries
+
 [Video](https://youtu.be/kZZskzgu-BE?si=BbqOKU88UgDoVNsU)
 
