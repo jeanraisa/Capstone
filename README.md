@@ -15,15 +15,20 @@ This project combines Machine Learning and mobile health technology to create a 
 
 # Model Training
 
-* Algorithm:
+* Algorithm: Random Forest Classifier
 * Hyperparameters:
+  1. n_estimators=300
+  2. random_state=42
+  3. criterion=entropy
+  4. max_depth=30,
+  5. min_samples_leaf=5
 * Training Process: The model was trained on 80% of the dataset and evaluated on the remaining 20%.
 
 # Model Evaluation
 
-* Accuracy: 81%
-* F1 Score: 81%
-* Precision: 82%
-* Recall: 81%
+* Accuracy: 73%
+* F1 Score: 68%
+* Precision: 73%
+* Recall: 72%
 * Confusion Matrix: Used to visualize true positives, false positives, etc.
 
