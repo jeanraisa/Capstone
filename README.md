@@ -1,6 +1,6 @@
 # Pregnancy Risk Prediction System
 
-This project aims to predict and monitor heart disease in real-time using Machine Learning (ML) and IoT technologies. The system uses sensor data to make predictions and provides alerts for high-risk patients. By analyzing user-inputted physiological data and the system provides personalized risk predictions and health insights to support early intervention and safer pregnancies.
+This project aims to predict and monitor pregnancy risks  using Machine Learning (ML) and mobile technologies. The system uses physiological data to make predictions and provides alerts for high-risk pregnancy. By analyzing user-inputted physiological data and the system provides personalized risk predictions and health insights to support early intervention and safer pregnancies.
 
 # Project Overview
 
