@@ -48,3 +48,5 @@ Install required libraries
 
 [Video](https://youtu.be/kZZskzgu-BE?si=BbqOKU88UgDoVNsU)
 
+[GitHub Repo](https://github.com/jeanraisa/Capstone)
+
