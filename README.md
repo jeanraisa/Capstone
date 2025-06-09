@@ -50,3 +50,5 @@ Install required libraries
 
 [GitHub Repo](https://github.com/jeanraisa/Capstone)
 
+[Deployment](https://www.figma.com/proto/DJnqfG2GGMVSDBQnSKCOKQ/Final-Project?node-id=137-6641&t=geqMHmUasyPjlqsJ-1&scaling=scale-down&content-scaling=fixed&page-id=12%3A2&starting-point-node-id=137%3A6641)
+
